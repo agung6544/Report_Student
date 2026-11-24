@@ -1,0 +1,419 @@
+[
+  {
+    "id": "6A",
+    "urutan": 1,
+    "nama": "Level 6A",
+    "tujuan": "Mengenalkan bilangan dan membaca bilangan.",
+    "capaian": "Membaca bilangan sampai dengan 10.",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "5A",
+    "urutan": 2,
+    "nama": "Level 5A",
+    "tujuan": "Mengembangkan kemampuan membaca bilangan.",
+    "capaian": "Membaca sampai dengan bilangan 50.",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "4A",
+    "urutan": 3,
+    "nama": "Level 4A",
+    "tujuan": "Menulis angka dan membaca bilangan hingga 100.",
+    "capaian": "Menulis bilangan sampai dengan 50, membaca bilangan sampai dengan 100.",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "3A",
+    "urutan": 4,
+    "nama": "Level 3A",
+    "tujuan": "Level 3A bertujuan agar siswa lebih meningkatkan pemahamannya tentang urutan bilangan serta keterampilan menulis angka yang telah terbentuk sampai Level 4A. Level 3A bertujuan agar siswa menggunakan keterampilan ini untuk mengembangkan kemampuan dalam penjumlahan 1 sampai 3 sehingga siswa akan siap untuk maju ke Level 2A.",
+    "capaian": "Meningkatkan pemahaman urutan bilangan sampai dengan 120 dan mengembangkan kemampuan penjumlahan 1 sampai 3.",
+    "jumlah_lembar": 200,
+    "bagian": [
+      {
+        "rentang": "1–70",
+        "judul": "Bilangan sampai 120 (Menghitung sampai dengan 120)",
+        "isi": "Siswa memperdalam pemahamannya tentang urutan bilangan sampai dengan 120 dengan menulis angka secara berurutan dan mengisi bagian yang kosong pada papan bilangan dan mengerjakan soal melengkapi urutan bilangan."
+      },
+      {
+        "rentang": "71–130",
+        "judul": "Penjumlahan 1",
+        "isi": "Latihan bilangan berikutnya digabung dengan latihan penjumlahan 1, dengan jawaban sampai lebih besar dari 100 hingga penjumlahan dengan bilangan besar (1000+1)."
+      },
+      {
+        "rentang": "131–180",
+        "judul": "Penjumlahan 2 dan 3",
+        "isi": "Penjumlahan 2 dan 3 diperkenalkan sebagai konsep bilangan berikutnya-berikutnya."
+      },
+      {
+        "rentang": "181–200",
+        "judul": "Penjumlahan 1 sampai 3",
+        "isi": "Latihan pemantapan penjumlahan 1 sampai 3 dengan bilangan penjumlah tetap pada setiap lembar kerja."
+      }
+    ]
+  },
+  {
+    "id": "2A",
+    "urutan": 5,
+    "nama": "Level 2A",
+    "tujuan": "Level 2A bertujuan agar siswa lebih mengembangkan kemampuan penjumlahan dasar melalui latihan penjumlahan 4 sampai 10, berdasarkan kemampuan penjumlahan 1 hingga penjumlahan 3 yang telah dikembangkan di Level 3A. Level ini juga bertujuan untuk lebih mengembangkan ketangkasan kerja yang diperlukan di Level A.",
+    "capaian": "Mengembangkan kemampuan penjumlahan dasar melalui latihan penjumlahan 4 sampai 10 dan memperkuat ketangkasan kerja.",
+    "jumlah_lembar": 200,
+    "bagian": [
+      {
+        "rentang": "1–10",
+        "judul": "Mengulang Kembali sampai dengan Level 3A",
+        "isi": "Siswa mengulangi kembali penjumlahan 1 sampai 3."
+      },
+      {
+        "rentang": "11–50",
+        "judul": "Penjumlahan 4 dan 5",
+        "isi": "Pengenalan dan latihan penjumlahan 4 dan 5 yang berkaitan dengan bilangan berikutnya setelah penjumlahan sebelumnya."
+      },
+      {
+        "rentang": "51–70",
+        "judul": "Penjumlahan 1 sampai 5",
+        "isi": "Siswa berlatih soal-soal penjumlahan 1 sampai 5 dengan bilangan penjumlah tetap."
+      },
+      {
+        "rentang": "71–110",
+        "judul": "Penjumlahan 6 dan 7",
+        "isi": "Latihan penjumlahan 6 dan penjumlahan 7."
+      },
+      {
+        "rentang": "111–130",
+        "judul": "Penjumlahan 1 sampai 7",
+        "isi": "Siswa berlatih soal-soal penjumlahan 1 sampai 7."
+      },
+      {
+        "rentang": "131–170",
+        "judul": "Penjumlahan 8, 9 dan 10",
+        "isi": "Pengenalan dan latihan penjumlahan 8, 9, dan 10."
+      },
+      {
+        "rentang": "171–200",
+        "judul": "Penjumlahan 1 sampai 10",
+        "isi": "Siswa berlatih penjumlahan 1 sampai 10, termasuk soal dengan bilangan penjumlah yang berbeda pada tiap sisi."
+      }
+    ]
+  },
+  {
+    "id": "A",
+    "urutan": 6,
+    "nama": "Level A",
+    "tujuan": "Level A bertujuan agar siswa memperoleh kemampuan penjumlahan dan pengurangan berdasarkan kemampuan penjumlahan dasar yang telah dikembangkan sampai Level 2A serta untuk lebih meningkatkan ketangkasan kerjanya sehingga siswa akan siap untuk mengerjakan soal hitungan bersusun di Level B.",
+    "capaian": "Memperoleh kemampuan penjumlahan sampai puluhan dan pengurangan dari bilangan 10 sampai 20 ke bawah.",
+    "jumlah_lembar": 200,
+    "bagian": [
+      {
+        "rentang": "1–10",
+        "judul": "Mengulang Kembali sampai dengan Level 2A",
+        "isi": "Mengulang kembali penjumlahan dasar sampai level 2A."
+      },
+      {
+        "rentang": "11–40",
+        "judul": "Penjumlahan Satuan + Satuan",
+        "isi": "Penjumlahan bilangan satuan dengan jumlah sampai dengan 18."
+      },
+      {
+        "rentang": "41–80",
+        "judul": "Penjumlahan sampai dengan Bilangan Puluhan",
+        "isi": "Penjumlahan puluhan + satuan, satuan + puluhan, puluhan + puluhan, dan bilangan besar (100+100)."
+      },
+      {
+        "rentang": "81–110",
+        "judul": "Pengurangan 1, 2 dan 3",
+        "isi": "Pengurangan 1, 2, dan 3 diperkenalkan sebagai konsep bilangan sebelumnya."
+      },
+      {
+        "rentang": "111–120",
+        "judul": "Pengurangan 1 sampai 3",
+        "isi": "Latihan pengurangan 1 sampai 3."
+      },
+      {
+        "rentang": "121–130",
+        "judul": "Pengurangan 1 sampai 5",
+        "isi": "Latihan pengurangan 1 sampai 5."
+      },
+      {
+        "rentang": "131–190",
+        "judul": "Pengurangan dari Bilangan 10 sampai 20 ke Bawah",
+        "isi": "Pengurangan dari bilangan 10 sampai 20 dengan bilangan pengurang tetap."
+      },
+      {
+        "rentang": "191–200",
+        "judul": "Rangkuman Pengurangan",
+        "isi": "Latihan intensif pengurangan puluhan – satuan yang sangat penting untuk pengurangan bersusun di Level B."
+      }
+    ]
+  },
+  {
+    "id": "B",
+    "urutan": 7,
+    "nama": "Level B",
+    "tujuan": "Mengembangkan kemampuan hitungan penjumlahan dan pengurangan bersusun.",
+    "capaian": "Penjumlahan dan pengurangan bersusun.",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "C",
+    "urutan": 8,
+    "nama": "Level C",
+    "tujuan": "Mengembangkan penguasaan tabel perkalian, perkalian, dan pembagian dasar.",
+    "capaian": "Tabel perkalian, perkalian, dan pembagian.",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "D",
+    "urutan": 9,
+    "nama": "Level D",
+    "tujuan": "Mengembangkan perkalian dan pembagian lanjutan serta pengenalan pecahan.",
+    "capaian": "Perkalian, pembagian, dan pengenalan pecahan.",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "E",
+    "urutan": 10,
+    "nama": "Level E",
+    "tujuan": "Level E bertujuan agar siswa dapat mengembangkan kemampuan untuk menghitung empat operasi berhitung pada pecahan berdasarkan kemampuan dalam menghitung empat operasi pada bilangan bulat dan menyederhanakan pecahan, untuk membentuk kemampuan yang diperlukan di Level F.",
+    "capaian": "Mengembangkan kemampuan empat operasi berhitung pada pecahan (penjumlahan, pengurangan, perkalian, dan pembagian) serta menyederhanakan pecahan.",
+    "jumlah_lembar": 200,
+    "bagian": [
+      {
+        "rentang": "1–10",
+        "judul": "Mengulang Kembali sampai dengan Level D",
+        "isi": "Mengulang kembali materi pecahan dari Level C sampai D200."
+      },
+      {
+        "rentang": "11–30",
+        "judul": "Penjumlahan Pecahan dengan Penyebut yang Sama",
+        "isi": "Penjumlahan pecahan berpenyebut sama, termasuk angka simpanan bilangan bulat pada pecahan campuran dan penyederhanaan pecahan."
+      },
+      {
+        "rentang": "31–100",
+        "judul": "Penjumlahan Pecahan dengan Penyebut Berbeda",
+        "isi": "Mencari Kelipatan Persekutuan Terkecil (KPK) untuk menyamakan penyebut pecahan dan menyederhanakan pecahan."
+      },
+      {
+        "rentang": "101–130",
+        "judul": "Pengurangan Pecahan",
+        "isi": "Pengurangan pecahan penyebut sama dan berbeda, serta pengurangan yang membutuhkan angka pinjaman dari bilangan bulat pada pecahan campuran."
+      },
+      {
+        "rentang": "131–140",
+        "judul": "Penjumlahan dan Pengurangan Pecahan",
+        "isi": "Latihan gabungan penjumlahan dan pengurangan pecahan serta penyederhanaan pecahan."
+      },
+      {
+        "rentang": "141–180",
+        "judul": "Perkalian dan Pembagian Pecahan",
+        "isi": "Menyederhanakan pecahan pada jalan hitung, perkalian/pembagian pecahan campuran, pecahan murni, dan bilangan bulat."
+      },
+      {
+        "rentang": "181–200",
+        "judul": "Empat Operasi dari 2 Pecahan",
+        "isi": "Latihan intensif empat operasi berhitung yang memuat dua pecahan."
+      }
+    ]
+  },
+  {
+    "id": "F",
+    "urutan": 11,
+    "nama": "Level F",
+    "tujuan": "Level F bertujuan agar siswa dapat mengembangkan lebih jauh kemampuan dalam berhitung dengan pecahan yang telah diperoleh di Level E agar lebih lancar menghitung soal-soal yang lebih sulit dengan empat operasi berhitung, untuk memperoleh kemampuan yang diperlukan di Level G.",
+    "capaian": "Mengembangkan kemampuan berhitung empat operasi pada tiga pecahan atau lebih, aturan urutan operasi hitung, pecahan dan desimal, serta soal cerita.",
+    "jumlah_lembar": 200,
+    "bagian": [
+      {
+        "rentang": "1–20",
+        "judul": "Mengulang Kembali sampai dengan Level E",
+        "isi": "Mengulang kembali materi pecahan Level E dengan mendorong efisiensi jalan hitung."
+      },
+      {
+        "rentang": "21–30",
+        "judul": "Perkalian dan Pembagian 3 Pecahan",
+        "isi": "Perkalian dan pembagian 3 pecahan dengan penyederhanaan pada jalan hitung."
+      },
+      {
+        "rentang": "31–60",
+        "judul": "Penjumlahan dan Pengurangan 3 Pecahan",
+        "isi": "Mencari KPK 3 pecahan, penjumlahan bilangan campuran, dan penerapan hukum komutatif."
+      },
+      {
+        "rentang": "61–90",
+        "judul": "Urutan Menghitung Operasi (3 Pecahan)",
+        "isi": "Menerapkan aturan bilangan di dalam tanda kurung dihitung lebih dahulu, serta perkalian/pembagian dikerjakan sebelum penjumlahan/pengurangan."
+      },
+      {
+        "rentang": "91–130",
+        "judul": "Urutan Menghitung Operasi (3 Pecahan atau Lebih)",
+        "isi": "Perhitungan efisien pada operasi 4 pecahan atau lebih, serta soal bertanda kurung besar dan kurung biasa."
+      },
+      {
+        "rentang": "131–160",
+        "judul": "Pecahan dan Desimal",
+        "isi": "Mengubah desimal menjadi pecahan dan operasi hitung 2 sampai 3 pecahan yang mengandung bilangan desimal."
+      },
+      {
+        "rentang": "161–180",
+        "judul": "Menyelesaikan Soal Cerita",
+        "isi": "Soal cerita hitungan langsung, mencari nilai x, dan penyelesaian hitungan terbalik."
+      },
+      {
+        "rentang": "181–200",
+        "judul": "Empat Operasi pada Bilangan Desimal",
+        "isi": "Penjumlahan, pengurangan, perkalian, dan pembagian bilangan desimal."
+      }
+    ]
+  },
+  {
+    "id": "G",
+    "urutan": 12,
+    "nama": "Level G",
+    "tujuan": "Level G bertujuan untuk mengembangkan kemampuan menghitung bilangan positif/negatif, bentuk aljabar dan persamaan linear berdasarkan kemampuan untuk menghitung pecahan yang telah dikembangkan sampai Level F, untuk mendapatkan kemampuan yang diperlukan di Level H.",
+    "capaian": "Mengembangkan kemampuan menghitung bilangan positif dan negatif, menyederhanakan bentuk aljabar, dan menyelesaikan persamaan linear.",
+    "jumlah_lembar": 200,
+    "bagian": [
+      {
+        "rentang": "1–20",
+        "judul": "Mengulang Kembali sampai dengan Level F",
+        "isi": "Mengulang kembali pecahan dan empat operasi hitung sampai dengan Level F."
+      },
+      {
+        "rentang": "21–60",
+        "judul": "Penjumlahan & Pengurangan Bilangan Positif dan Negatif",
+        "isi": "Aturan penjumlahan/pengurangan bilangan positif dan negatif, angka pinjaman, menghilangkan tanda kurung, dan menghitung tanda yang sama terlebih dahulu."
+      },
+      {
+        "rentang": "61–80",
+        "judul": "Perkalian & Pembagian Bilangan Positif dan Negatif",
+        "isi": "Perkalian dan pembagian pecahan/bilangan bulat positif dan negatif, serta perhitungan bilangan berpangkat."
+      },
+      {
+        "rentang": "81–100",
+        "judul": "Empat Operasi pada Bilangan Positif dan Negatif",
+        "isi": "Latihan gabungan empat operasi bilangan positif dan negatif serta pecahan kompleks."
+      },
+      {
+        "rentang": "101–120",
+        "judul": "Nilai Bentuk Aljabar",
+        "isi": "Substitusi nilai ke dalam bentuk persamaan dengan satu variabel dan dua variabel atau lebih."
+      },
+      {
+        "rentang": "121–160",
+        "judul": "Menyederhanakan Bentuk Aljabar",
+        "isi": "Menggabungkan suku sejenis, menghilangkan tanda kurung dengan perkalian suku, hitungan bersusun, dan bentuk pecahan."
+      },
+      {
+        "rentang": "161–200",
+        "judul": "Persamaan Linear",
+        "isi": "Menyelesaikan persamaan linear menggunakan metode transposisi, verifikasi jawaban, penyelesaian persamaan berkoefisien pecahan, serta menghilangkan tanda kurung dan penyebut."
+      }
+    ]
+  },
+  {
+    "id": "H",
+    "urutan": 13,
+    "nama": "Level H",
+    "tujuan": "Mengembangkan kemampuan persamaan linear majemuk, fungsi, dan grafik.",
+    "capaian": "Persamaan linear majemuk, fungsi, dan grafik.",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "I",
+    "urutan": 14,
+    "nama": "Level I",
+    "tujuan": "Mengembangkan pemfaktoran, persamaan kuadrat, fungsi kuadrat, dan teorema Pythagoras.",
+    "capaian": "Pemfaktoran, persamaan kuadrat, fungsi kuadrat, teorema Pythagoras.",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "J",
+    "urutan": 15,
+    "nama": "Level J",
+    "tujuan": "Mengembangkan pemfaktoran tingkat tinggi, teorema sisa, dan teorema faktor.",
+    "capaian": "Pemfaktoran tingkat tinggi, teorema sisa, teorema faktor.",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "K",
+    "urutan": 16,
+    "nama": "Level K",
+    "tujuan": "Mengembangkan fungsi kuadrat, pecahan, irasional, dan eksponen.",
+    "capaian": "Fungsi (fungsi kuadrat, pecahan, irasional, dan eksponen).",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "L",
+    "urutan": 17,
+    "nama": "Level L",
+    "tujuan": "Mengembangkan fungsi logaritma, kalkulus diferensial, dan integral.",
+    "capaian": "Fungsi logaritma, kalkulus diferensial, integral.",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "M",
+    "urutan": 18,
+    "nama": "Level M",
+    "tujuan": "Mengembangkan trigonometri, persamaan garis, dan lingkaran.",
+    "capaian": "Trigonometri, persamaan garis, lingkaran.",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "N",
+    "urutan": 19,
+    "nama": "Level N",
+    "tujuan": "Mengembangkan tempat kedudukan, barisan dan deret, limit dan turunan.",
+    "capaian": "Tempat kedudukan, barisan dan deret, limit dan turunan.",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "O",
+    "urutan": 20,
+    "nama": "Level O",
+    "tujuan": "Mengembangkan kalkulus integral dan persamaan diferensial.",
+    "capaian": "Kalkulus integral, persamaan diferensial.",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "XM",
+    "urutan": 21,
+    "nama": "Level XM (Matriks)",
+    "tujuan": "Mengembangkan matriks.",
+    "capaian": "XM (Matriks)",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "XP",
+    "urutan": 22,
+    "nama": "Level XP (Probabilitas)",
+    "tujuan": "Mengembangkan probabilitas.",
+    "capaian": "XP (Probabilitas)",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "XS",
+    "urutan": 23,
+    "nama": "Level XS (Statistik)",
+    "tujuan": "Mengembangkan statistik.",
+    "capaian": "XS (Statistik)",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "XT",
+    "urutan": 24,
+    "nama": "Level XT (Segitiga)",
+    "tujuan": "Mengembangkan trigonometri segitiga.",
+    "capaian": "XT (Segitiga)",
+    "jumlah_lembar": 200
+  },
+  {
+    "id": "XV",
+    "urutan": 25,
+    "nama": "Level XV (Vektor)",
+    "tujuan": "Mengembangkan vektor.",
+    "capaian": "XV (Vektor)",
+    "jumlah_lembar": 200
+  }
+]
